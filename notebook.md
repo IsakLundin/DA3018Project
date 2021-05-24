@@ -14,5 +14,5 @@ Had help from TA about the project and got some questions answered.
 
 ### Answer about the assignment
 - Node degree distribution: This means how many neighbors every node has.
-- Numnber of components: This means how many disconnected graphs there are.
+- Number of components: This means how many disconnected graphs there are.
 - Component size distribution: This means how many of these disconnected graphs has x amount of nodes.
