@@ -32,3 +32,9 @@ Took a break from the project to focus on course finals. But now back to work.
 - For that I need a helper function that gets the size of a keys linkedlist.
 - Using Scanner to read from stdin.
 - The degree distribution seems to work for smaller sets atleast.
+
+## 2/6-21
+Made some discoveries about the datafile we recieved.
+- The data file which should have around 11 million lines actually has around 64 million lines.
+- And after I removed overlap it is still around 22 million lines left.
+- I have 16 GB Ram, so it should be fine. But it will probably take alot longer to use code on the file.
