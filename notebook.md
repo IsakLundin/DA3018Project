@@ -54,3 +54,11 @@ find out how to print out each part in different file from the same java file.
 When I have the files I should code something that takes the data and puts it in a histogram. I am not sure
 if how hard that is in java, but I know I can do that in Python with matplot. Will probably try to do that in
 java, but if it takes to much time I will just do it in Python.
+
+### Extra testing
+So I tested my code on the full data and I got an Memory Error. However I tried my code again but with a restriction 
+that it can only use up to 4 GB memory with -Xmx4g in unix and it did work and got me a result. So i tried it again
+but with 8 GB memory with -Xmx8g and it also worked, however I got the same answer as with 4 GB. This makes me 
+believe that what I got is the full data. I am not really sure how -Xmx4g and -Xmx8g works and if it discards 
+data from the full set. I will try to fix my code and try to make it take less memory, but if that does not help
+I will just use the numbers I got from the -Xmx4g and -Xmx8g attempts and hopefully that is still acceptable. 
