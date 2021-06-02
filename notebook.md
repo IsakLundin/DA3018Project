@@ -45,3 +45,18 @@ Made some discoveries about the datafile we recieved.
 - Created a function that finds the number of components in the graph by iterating and adding to a total.
 - For the Component distribution I made a function the uses entrySet and gets the key and value.
 - Now need to use the main function so that it prints out the right thing I want.
+
+### Ideas
+I created a Main function that prints out the correct data and has been tested on the test data.
+
+This should then individually print out the results in different file so it will be easier to then get the data
+
+in a histogram. I should probably create different java file for each required part in the assignment or try to 
+
+find out how to print out each part in different file from the same java file.
+
+When I have the files I should code something that takes the data and puts it in a histogram. I am not sure
+
+if how hard that is in java, but I know I can do that in Python with matplot. Will probably try to do that in
+
+java, but if it takes to much time I will just do it in Python.
