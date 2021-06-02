@@ -48,7 +48,6 @@ Made some discoveries about the datafile we recieved.
 
 ### Ideas
 I created a Main function that prints out the correct data and has been tested on the test data.
-
 This should then individually print out the results in different file so it will be easier to then get the data
 in a histogram. I should probably create different java file for each required part in the assignment or try to 
 find out how to print out each part in different file from the same java file.
