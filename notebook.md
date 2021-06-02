@@ -38,3 +38,10 @@ Made some discoveries about the datafile we recieved.
 - The data file which should have around 11 million lines actually has around 64 million lines.
 - And after I removed overlap it is still around 22 million lines left.
 - I have 16 GB Ram, so it should be fine. But it will probably take alot longer to use code on the file.
+
+### Coding part
+- Made a function that uses Depth First Search to look through a graph and finds all connected elements.
+- This is then used in another function that finds the number of connected components in the graph.
+- Created a function that finds the number of components in the graph by iterating and adding to a total.
+- For the Component distribution I made a function the uses entrySet and gets the key and value.
+- Now need to use the main function so that it prints out the right thing I want.
