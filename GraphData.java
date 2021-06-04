@@ -215,12 +215,12 @@ public class GraphData {
 		else {
 			g.connectedComponents();
 
-			System.out.println("The node degree distribution of G is represented by:");		
+			System.out.println("The node degree distribution of G:");		
 			g.degreeDistribution();
 			
-			System.out.println("The total number of components in G is " + g.ccNumber());
+			System.out.println("The total number of components in G: " + g.ccNumber());
 			
-			System.out.println("The component size distribution of G is represented by:");
+			System.out.println("The component size distribution of G:");
 			g.CompDist();		
 		}
 	}
