@@ -73,3 +73,7 @@ So I made some code for the data and turned them into a histogram and it looks t
 out. Because the the first one has around 2.6 million and some of the later ones only have 1. This makes the 
 histograms look extremly empty. I will check with Lars if this is necessary or if the text form is enough.
 Meanwhile trying to get an respone I will start with the report.
+
+I got okay that it is not required to use histograms and that the text file table is enough when handing in. I 
+now noticed in the description of the project that a table is enough. I should have read more thorough. I will now
+contine with the report.
