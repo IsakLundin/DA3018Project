@@ -63,7 +63,8 @@ believe that what I got is the full data. I am not really sure how -Xmx4g and -X
 data from the full set. I will try to fix my code and try to make it take less memory, but if that does not help
 I will just use the numbers I got from the -Xmx4g and -Xmx8g attempts and hopefully that is still acceptable. 
 
-### 4/6-21
+## 4/6-21
 I don't think I can write my code any better with my current knowledge of java so I will upload this as the hand-in
 code. I also uploaded my data numbers of each one of the assignment and a file with all of them combined. I have
-decided to make my histograms in python as that will take the least amount of time for me.
+decided to make my histograms in python as that will take the least amount of time for me. After that I will start
+with the report.
