@@ -68,3 +68,8 @@ I don't think I can write my code any better with my current knowledge of java s
 code. I also uploaded my data numbers of each one of the assignment and a file with all of them combined. I have
 decided to make my histograms in python as that will take the least amount of time for me. After that I will start
 with the report.
+
+So I made some code for the data and turned them into a histogram and it looks terrible as the data are so spread
+out. Because the the first one has around 2.6 million and some of the later ones only have 1. This makes the 
+histograms look extremly empty. I will check with Lars if this is necessary or if the text form is enough.
+Meanwhile trying to get an respone I will start with the report.
