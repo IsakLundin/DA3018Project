@@ -77,3 +77,7 @@ Meanwhile trying to get an respone I will start with the report.
 I got okay that it is not required to use histograms and that the text file table is enough when handing in. I 
 now noticed in the description of the project that a table is enough. I should have read more thorough. I will now
 contine with the report.
+
+## 5/6-21
+Finished the report, but will read through it a couple of times and try to spot spelling errors and grammatical
+errors. Will then invite Lars to the repository and turn in the link for the repository on Athena.
